@@ -1,0 +1,7 @@
+id = "skys-theme"
+name = "Skys Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Saif Basheer Mohammed Al-Khoja"]
+description = "A beautiful custom theme for the Zed Editor."
+repository = "https://github.com/saifbasheeralkhoja/skys-theme"

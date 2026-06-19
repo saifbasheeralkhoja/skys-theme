@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="Maghrib+" src="https://github.com/user-attachments/assets/b3e6dc97-7ced-445a-94f4-5a1cf5a8ebdd" /># 🌊 Sky’s Sea
+🌊 Sky’s Sea
 
 A Minimalist Zed Theme
 

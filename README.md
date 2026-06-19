@@ -122,6 +122,29 @@ You can also set a default theme in your `settings.json`:
   "theme": "Asr+"
 }
 
+## 📸 Screenshots
+
+| Asr+ |
+<img width="1920" height="1200" alt="Asr" src="https://github.com/user-attachments/assets/1ae2bc16-4ecf-409e-a194-065d9a87d007" />
+
+| Maghrib+ |
+<img width="1920" height="1200" alt="Maghrib" src="https://github.com/user-attachments/assets/11573680-f26d-4ac3-83af-419613691972" />
+
+| Layl+ |
+<img width="1920" height="1200" alt="Layl" src="https://github.com/user-attachments/assets/7b0aeb2a-1b25-45c6-8104-64410b9d94ca" />
+
+| Fajr+ |
+<img width="1920" height="1200" alt="Fajr" src="https://github.com/user-attachments/assets/ef523ce4-3c7e-46d2-aff7-e3f873b7e126" />
+
+| Dhuhr+ |
+<img width="1920" height="1200" alt="Dhuhr" src="https://github.com/user-attachments/assets/7fdbabf8-d121-4022-a070-c04daaef57a4" />
+
+| Ghasaq+ |
+<img width="1920" height="1200" alt="Ghasaq" src="https://github.com/user-attachments/assets/dbb6fa3b-3a49-4494-9234-2328cd1a9720" />
+
+| Subh+ |
+<img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/ae6997fd-78d3-474f-9e18-c19a8a48e71b" />
+
 ## 🤝 Contributing
 
 We welcome improvements! If you’d like to tweak colors, add a new variant, or fix a typo:

@@ -59,11 +59,11 @@ keep a border‑less look for a truly seamless feel.
 | 04. Maghrib+ | Eveining+ With clear borders:    |    ✅    | #192339  |
 | 05. Layl     | Night: High Minimlistic look     |    ❌    | #111827  |
 | 06. Layl+    | Night+ With clear borders        |    ✅    | #111827  |
-| 07. Fajr     | Dawn: High minimlistic look      |    ❌    | #2b3c61  |
+| 07. Fajr     | Dawn: High Minimlistic look      |    ❌    | #2b3c61  |
 | 08. Fajr+    | Dawn+ With clear borders         |    ✅    | #2b3c61  |
 | 09. Dhuhr+   | Noon+ With clear borders         |    ✅    | #203f6e  |
 | 10. Ghasaq+  | Twilight: With clear borders     |    ✅    | #102751  |
-| 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78  |
+| 11. Subh     | Morning: High Minimlistic look   |    ❌    | #354b78  |
 | 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78  |
 --------------------------------------------------------------------------
 

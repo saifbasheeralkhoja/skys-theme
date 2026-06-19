@@ -3,18 +3,13 @@
 A Minimalist Zed Theme
 
 Author: Saif Basheer Mohammed Al-Khoja
-
 **Repository:** https://github.com/saifbasheeralkhoja/skys-theme
 
 **License:** MIT
-
-
 *Sky’s Sea* A minimal, eye‑friendly syntax theme inspired by the colors of the sky colors throughout the day but withot sun effects, It's a collection of 12 carefully crafted color themes for the **Zed** editor. Each flavor is named after a period of the day (Arabic prayer times) and mirrors the sky’s natural palette at that moment. The themes are deliberately **minimalistic** and **easy on the eyes**, helping you stay focused on code during long editing sessions.
 
----
 
-## 🎨 Overview  
-
+## 🎨 Overview
 Sky’s Sea is a collection of **12 theme flavors** that translate the natural hues of the sky—from dawn to night—into a clean, minimalist code‑editing 
 experience. Each flavor is carefully tuned to reduce eye strain during long coding sessions while keeping the focus on the code itself.
 
@@ -36,7 +31,6 @@ keep a border‑less look for a truly seamless feel.
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [💬 Contact](#-contact)
-
 
 
 ## ✨ Features
@@ -122,6 +116,7 @@ You can also set a default theme in your `settings.json`:
 }
 ```
 
+
 ## 📸 Screenshots
 
 | Asr+ |
@@ -144,6 +139,7 @@ You can also set a default theme in your `settings.json`:
 
 | Subh+ |
 <img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/ae6997fd-78d3-474f-9e18-c19a8a48e71b" />
+
 
 ## 🤝 Contributing
 

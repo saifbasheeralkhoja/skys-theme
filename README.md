@@ -120,40 +120,40 @@ You can also set a default theme in your `settings.json`:
 ## 📸 Screenshots
 
 
-| Asr  |
+01. | Asr  |
 <img width="1920" height="1200" alt="Asr" src="https://github.com/user-attachments/assets/d9afc01b-d1be-4b06-bcf3-d78b010bec9b" />
 
-| Asr+ |
+02. | Asr+ |
 <img width="1920" height="1200" alt="Asr+" src="https://github.com/user-attachments/assets/b743fcf7-75e8-4a9a-952d-9ea8dc0b5ba6" />
 
-| Maghrib  |
+03. | Maghrib  |
 <img width="1920" height="1200" alt="Maghrib" src="https://github.com/user-attachments/assets/68e452ea-3eb3-4ce1-94c7-27df4a4448da" />
 
-| Maghrib+ |
+04. | Maghrib+ |
 <img width="1920" height="1200" alt="Maghrib+" src="https://github.com/user-attachments/assets/3b9795d9-62b3-4cb4-8dea-89bdf2eac545" />
 
-| Layl  |
+05. | Layl  |
 <img width="1920" height="1200" alt="Layl" src="https://github.com/user-attachments/assets/f2e067e8-0404-4526-91eb-e1be8865a583" />
 
-| Layl+ |
+06. | Layl+ |
 <img width="1920" height="1200" alt="Layl+" src="https://github.com/user-attachments/assets/4fb24057-6c54-481b-9bab-759408299e72" />
 
-| Fajr  |
+07. | Fajr  |
 <img width="1920" height="1200" alt="Fajr" src="https://github.com/user-attachments/assets/b4b669d1-a5c5-4ac9-a375-553352680788" />
 
-| Fajr+ |
+08.| Fajr+ |
 <img width="1920" height="1200" alt="Fajr+" src="https://github.com/user-attachments/assets/a5acf833-905b-47e1-a60c-49e831742ab0" />
 
-| Dhuhr+ |
+09. | Dhuhr+ |
 <img width="1920" height="1200" alt="Dhuhr+" src="https://github.com/user-attachments/assets/7fdbabf8-d121-4022-a070-c04daaef57a4" />
 
-| Ghasaq+ |
+10. | Ghasaq+ |
 <img width="1920" height="1200" alt="Ghasaq+" src="https://github.com/user-attachments/assets/dbb6fa3b-3a49-4494-9234-2328cd1a9720" />
 
-| Subh+ |
+11. | Subh  |
 <img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/6f03c99a-4275-469f-8649-b786bd7a4f90" />
 
-| Subh+ |
+12. | Subh+ |
 <img width="1920" height="1200" alt="Subh+" src="https://github.com/user-attachments/assets/f4be1076-5774-4cb7-9e7c-d2d8db649bc4" />
 
 

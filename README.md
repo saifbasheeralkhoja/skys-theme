@@ -1,18 +1,15 @@
-# 🌊 Sky’s Sea
+🌊 Sky’s Sea
 
 A Minimalist Zed Theme
 
 Author: Saif Basheer Mohammed Al-Khoja
 **Repository:** https://github.com/saifbasheeralkhoja/skys-theme
+
 **License:** MIT
-
-
 *Sky’s Sea* A minimal, eye‑friendly syntax theme inspired by the colors of the sky colors throughout the day but withot sun effects, It's a collection of 12 carefully crafted color themes for the **Zed** editor. Each flavor is named after a period of the day (Arabic prayer times) and mirrors the sky’s natural palette at that moment. The themes are deliberately **minimalistic** and **easy on the eyes**, helping you stay focused on code during long editing sessions.
 
----
 
-## 🎨 Overview  
-
+## 🎨 Overview
 Sky’s Sea is a collection of **12 theme flavors** that translate the natural hues of the sky—from dawn to night—into a clean, minimalist code‑editing 
 experience. Each flavor is carefully tuned to reduce eye strain during long coding sessions while keeping the focus on the code itself.
 
@@ -35,7 +32,6 @@ keep a border‑less look for a truly seamless feel.
 - [📜 License](#-license)
 - [💬 Contact](#-contact)
 
----
 
 ## ✨ Features
 
@@ -46,8 +42,7 @@ keep a border‑less look for a truly seamless feel.
 | **Sky‑Inspired Palette**  | Colors are taken directly from real sky hues.                                                                               |
 | **Minimalistic Design**   | Low contrast UI chrome lets the code itself become the visual focus.                                                        |
 | **Eye‑Friendly**          | Soft contrast ratios reduce strain during prolonged use.                                                                    |
-| **Border Variants (`+`)   | Flavors suffixed with `+` add thin, distinct borders around pans, tabs, and the status bar for those who prefer extra       |
-|                           |  visual separation.                                                                                                         |                                                                                                                            
+| **Border Variants (`+`)   | Flavors suffixed with `+` add thin, distinct borders around pans, tabs, and the status bar for those who prefer extra visual separation.      |                                                                                                                            
 | **Zed‑Native**            | Built using Zed’s theme JSON format – no extra plugins required.                                                            |
 | **Easy Switching**        | Change flavors instantly via Zed’s command palette or settings file.                                                        |
 | **Open Source**           | MIT‑licensed – feel free to fork, tweak, or share.                                                                          |
@@ -56,7 +51,6 @@ keep a border‑less look for a truly seamless feel.
 
 ## 🎨 Theme Flavors that written in Arabic words via English letters
 
--------------------------------------------------------------------------|
 | Flavor       | Meaning (time of day)            | Borders |Background  |
 |--------------|----------------------------------|---------|------------|
 | 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b  |
@@ -65,16 +59,14 @@ keep a border‑less look for a truly seamless feel.
 | 04. Maghrib+ | Eveining+ With clear borders:    |    ✅    | #192339  |
 | 05. Layl     | Night: High Minimlistic look     |    ❌    | #111827  |
 | 06. Layl+    | Night+ With clear borders        |    ✅    | #111827  |
-| 07. Fajr     | Dawn: High minimlistic look      |    ❌    | #2b3c61  |
+| 07. Fajr     | Dawn: High Minimlistic look      |    ❌    | #2b3c61  |
 | 08. Fajr+    | Dawn+ With clear borders         |    ✅    | #2b3c61  |
 | 09. Dhuhr+   | Noon+ With clear borders         |    ✅    | #203f6e  |
 | 10. Ghasaq+  | Twilight: With clear borders     |    ✅    | #102751  |
-| 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78  |
+| 11. Subh     | Morning: High Minimlistic look   |    ❌    | #354b78  |
 | 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78  |
 --------------------------------------------------------------------------
 
-
----
 
 ## 🔧 Installation
 
@@ -107,7 +99,6 @@ keep a border‑less look for a truly seamless feel.
 
 3. Restart Zed (or reload the window) and choose the theme via **Settings → Themes**.
 
----
 
 ## 🖥 Usage
 
@@ -123,33 +114,60 @@ You can also set a default theme in your `settings.json`:
 {
   "theme": "Asr+"
 }
+```
+
 
 ## 📸 Screenshots
 
-| Asr+ |
-<img width="1920" height="1200" alt="Asr" src="https://github.com/user-attachments/assets/1ae2bc16-4ecf-409e-a194-065d9a87d007" />
 
-| Maghrib+ |
-<img width="1920" height="1200" alt="Maghrib" src="https://github.com/user-attachments/assets/11573680-f26d-4ac3-83af-419613691972" />
+01. | Asr  |
+<img width="1920" height="1200" alt="Asr" src="https://github.com/user-attachments/assets/d9afc01b-d1be-4b06-bcf3-d78b010bec9b" />
 
-| Layl+ |
-<img width="1920" height="1200" alt="Layl" src="https://github.com/user-attachments/assets/7b0aeb2a-1b25-45c6-8104-64410b9d94ca" />
 
-| Fajr+ |
-<img width="1920" height="1200" alt="Fajr" src="https://github.com/user-attachments/assets/ef523ce4-3c7e-46d2-aff7-e3f873b7e126" />
+02. | Asr+ |
+<img width="1920" height="1200" alt="Asr+" src="https://github.com/user-attachments/assets/b743fcf7-75e8-4a9a-952d-9ea8dc0b5ba6" />
 
-| Dhuhr+ |
-<img width="1920" height="1200" alt="Dhuhr" src="https://github.com/user-attachments/assets/7fdbabf8-d121-4022-a070-c04daaef57a4" />
 
-| Ghasaq+ |
-<img width="1920" height="1200" alt="Ghasaq" src="https://github.com/user-attachments/assets/dbb6fa3b-3a49-4494-9234-2328cd1a9720" />
+03. | Maghrib  |
+<img width="1920" height="1200" alt="Maghrib" src="https://github.com/user-attachments/assets/68e452ea-3eb3-4ce1-94c7-27df4a4448da" />
 
-| Subh+ |
-<img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/ae6997fd-78d3-474f-9e18-c19a8a48e71b" />
 
-{
-  "theme": "Asr+"
-}
+04. | Maghrib+ |
+<img width="1920" height="1200" alt="Maghrib+" src="https://github.com/user-attachments/assets/3b9795d9-62b3-4cb4-8dea-89bdf2eac545" />
+
+
+05. | Layl  |
+<img width="1920" height="1200" alt="Layl" src="https://github.com/user-attachments/assets/f2e067e8-0404-4526-91eb-e1be8865a583" />
+
+
+06. | Layl+ |
+<img width="1920" height="1200" alt="Layl+" src="https://github.com/user-attachments/assets/4fb24057-6c54-481b-9bab-759408299e72" />
+
+
+07. | Fajr  |
+<img width="1920" height="1200" alt="Fajr" src="https://github.com/user-attachments/assets/b4b669d1-a5c5-4ac9-a375-553352680788" />
+
+
+08.| Fajr+ |
+<img width="1920" height="1200" alt="Fajr+" src="https://github.com/user-attachments/assets/a5acf833-905b-47e1-a60c-49e831742ab0" />
+
+
+09. | Dhuhr+ |
+<img width="1920" height="1200" alt="Dhuhr+" src="https://github.com/user-attachments/assets/7fdbabf8-d121-4022-a070-c04daaef57a4" />
+
+
+10. | Ghasaq+ |
+<img width="1920" height="1200" alt="Ghasaq+" src="https://github.com/user-attachments/assets/dbb6fa3b-3a49-4494-9234-2328cd1a9720" />
+
+
+11. | Subh  |
+<img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/6f03c99a-4275-469f-8649-b786bd7a4f90" />
+
+
+12. | Subh+ |
+<img width="1920" height="1200" alt="Subh+" src="https://github.com/user-attachments/assets/f4be1076-5774-4cb7-9e7c-d2d8db649bc4" />
+
+
 
 ## 🤝 Contributing
 
@@ -173,16 +191,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **Author:** Saif Basheer Mohammed Al-Khoja  
 - **GitHub:** https://github.com/saifbasheeralkhoja
 
-- **Author:** *[Your Name]*  
-- **GitHub:** https://github.com/your-username  
-- **Twitter/X:** @yourtwitter (optional)  
-- **Email:** your.email@example.com (optional)
-
-- **Author:** Saif Basheer Mohammed Al-Khoja  
-- **GitHub:** https://github.com/saifbasheeralkhoja
-
 If you enjoy Sky’s Sea, please ⭐ the repository and share it with fellow Zed enthusiasts! Happy coding under the sky. 🌤
 
---- 
 
 *Generated with ❤ for the Zed community.*

@@ -3,7 +3,9 @@
 A Minimalist Zed Theme
 
 Author: Saif Basheer Mohammed Al-Khoja
+
 **Repository:** https://github.com/saifbasheeralkhoja/skys-theme
+
 **License:** MIT
 
 

@@ -39,6 +39,7 @@ keep a border‑less look for a truly seamless feel.
 
 ## ✨ Features
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Feature                   | Description                                                                                                                 |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +48,7 @@ keep a border‑less look for a truly seamless feel.
 | **Minimalistic Design**   | Low contrast UI chrome lets the code itself become the visual focus.                                                        |
 | **Eye‑Friendly**          | Soft contrast ratios reduce strain during prolonged use.                                                                    |
 | **Border Variants (`+`)   | Flavors suffixed with `+` add thin, distinct borders around pans, tabs, and the status bar for those who prefer extra       |
-|                           |  visual separation.                                                                                                         |                              
+|                           |  visual separation.                                                                                                         |                                                                                                                            
 | **Zed‑Native**            | Built using Zed’s theme JSON format – no extra plugins required.                                                            |
 | **Easy Switching**        | Change flavors instantly via Zed’s command palette or settings file.                                                        |
 | **Open Source**           | MIT‑licensed – feel free to fork, tweak, or share.                                                                          |
@@ -57,20 +58,20 @@ keep a border‑less look for a truly seamless feel.
 ## 🎨 Theme Flavors that written in Arabic words via English letters
 
 -------------------------------------------------------------------------|
-| Flavor       | Meaning (time of day)            | Borders  |Background |
-|--------------|----------------------------------|------- --|-----------|
-| 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b   |
-| 02. Asr+     | Afternoon+ With clear borders    |    ✅    | #212e4b   |
-| 03. Maghrib  | Eveining: High Minimlistic look  |    ❌    | #192339   |
-| 04. Maghrib+ | Eveining+ With clear borders:    |    ✅    | #192339   |
-| 05. Layl     | Night: High Minimlistic look     |    ❌    | #111827   |
-| 06. Layl+    | Night+ With clear borders        |    ✅    | #111827   |
-| 07. Fajr     | Dawn: High minimlistic look      |    ❌    | #2b3c61   |
-| 08. Fajr+    | Dawn+ With clear borders         |    ✅    | #2b3c61   |
-| 09. Dhuhr+   | Noon+ With clear borders         |    ✅    | #203f6e   |
-| 10. Ghasaq+  | Twilight: With clear borders     |    ✅    | #102751   |
-| 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78   |
-| 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78   |
+| Flavor       | Meaning (time of day)            | Borders |Background  |
+|--------------|----------------------------------|---------|------------|
+| 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b  |
+| 02. Asr+     | Afternoon+ With clear borders    |    ✅    | #212e4b  |
+| 03. Maghrib  | Eveining: High Minimlistic look  |    ❌    | #192339  |
+| 04. Maghrib+ | Eveining+ With clear borders:    |    ✅    | #192339  |
+| 05. Layl     | Night: High Minimlistic look     |    ❌    | #111827  |
+| 06. Layl+    | Night+ With clear borders        |    ✅    | #111827  |
+| 07. Fajr     | Dawn: High minimlistic look      |    ❌    | #2b3c61  |
+| 08. Fajr+    | Dawn+ With clear borders         |    ✅    | #2b3c61  |
+| 09. Dhuhr+   | Noon+ With clear borders         |    ✅    | #203f6e  |
+| 10. Ghasaq+  | Twilight: With clear borders     |    ✅    | #102751  |
+| 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78  |
+| 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78  |
 --------------------------------------------------------------------------
 
 ---

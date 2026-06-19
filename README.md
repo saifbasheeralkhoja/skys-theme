@@ -58,7 +58,7 @@ keep a border‑less look for a truly seamless feel.
 
 ## 🎨 Theme Flavors that written in Arabic words via English letters
 
--------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | Flavor       | Meaning (time of day)            | Borders |Background  |
 |--------------|----------------------------------|---------|------------|
 | 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b  |

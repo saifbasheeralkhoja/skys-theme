@@ -1,5 +1,6 @@
 # 🌊 Sky’s Sea
 
+
 A Minimalist Zed Theme
 
 Author: Saif Basheer Mohammed Al-Khoja
@@ -26,27 +27,22 @@ We need to write a README.md for a theme "Sky's Sea" with 12 flavors, describing
 etc. Should be in markdown. Provide details: purpose, design rationale, list of flavors, plus variant meaning of + means borders, etc. Provide author 
 name placeholder? Actually they ask to "my name the auther of it". So include author name. Could ask for name? Could fill placeholder like "[Your 
 Name]". Or we can ask but likely they want to fill. We'll include placeholder and note to replace with actual name.
+=======
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 
-We'll produce a well-structured README: Title, description, features, installation, usage, theme variants, contributions, license, contact.
-
-Add screenshots placeholder.
-
-Add how to install via Zed's theme manager (if any). Might be customizing Zed editor config.
-
-Will produce markdown.
-
-Proceed.
-...done thinking.
-
-# 🌊 Sky’s Sea – A Minimalist Zed Theme Inspired by the Sky Colors
+A Minimalist Zed Theme
 
 Author: Saif Basheer Mohammed Al-Khoja
-**Repository:** https://github.com/your-username/sky-s‑sea 
+**Repository:** https://github.com/saifbasheeralkhoja/skys-theme
 **License:** MIT
 
 
+<<<<<<< HEAD
 *Sky’s Sea* A minimal, eye‑friendly syntax theme inspired by the colors of the sky throughout the day, It's a collection of 12 carefully crafted color themes for the **Zed** editor. Each flavor is named after a period of the day (Arabic prayer times) and mirrors the sky’s natural palette at that moment. The themes are deliberately **minimalistic** and **easy on the eyes**, helping you stay focused on code during long editing sessions.
 >>>>>>> 7262f79 (Rename display name to Sky's Sea)
+=======
+*Sky’s Sea* A minimal, eye‑friendly syntax theme inspired by the colors of the sky colors throughout the day but withot sun effects, It's a collection of 12 carefully crafted color themes for the **Zed** editor. Each flavor is named after a period of the day (Arabic prayer times) and mirrors the sky’s natural palette at that moment. The themes are deliberately **minimalistic** and **easy on the eyes**, helping you stay focused on code during long editing sessions.
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 
 ---
 
@@ -78,6 +74,9 @@ keep a border‑less look for a truly seamless feel.
 
 ## ✨ Features
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Feature                   | Description                                                                                                                 |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -91,6 +90,7 @@ keep a border‑less look for a truly seamless feel.
 | **Easy Switching**        | Change flavors instantly via Zed’s command palette or settings file.                                                        |
 | **Open Source**           | MIT‑licensed – feel free to fork, tweak, or share.                                                                          |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
 =======
 
 | Feature                   | Description    
@@ -107,6 +107,8 @@ visual separation.          |
 
 ---
 >>>>>>> 7262f79 (Rename display name to Sky's Sea)
+=======
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 
 ## 🎨 Theme Flavors that written in Arabic words via English letters
 
@@ -114,6 +116,9 @@ visual separation.          |
 | Flavor       | Meaning (time of day)            | Borders |Background |
 |--------------|----------------------------------|---------|-----------|
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 | 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b  |
 | 02. Asr+     | Afternoon+ With clear borders    |    ✅    | #212e4b  |
 | 03. Maghrib  | Eveining: High Minimlistic look  |    ❌    | #192339  |
@@ -126,6 +131,7 @@ visual separation.          |
 | 10. Ghasaq+  | Twilight: With clear borders     |    ✅    | #102751  |
 | 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78  |
 | 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78  |
+<<<<<<< HEAD
 =======
 | 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b |
 | 02. Asr+     | Afternoon+ With clear borders    |    ✅    | #212e4b |
@@ -140,6 +146,8 @@ visual separation.          |
 | 11. Subh     | Morning: High minimlistic look   |    ❌    | #354b78 |
 | 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78 |
 >>>>>>> 7262f79 (Rename display name to Sky's Sea)
+=======
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 --------------------------------------------------------------------------
 
 
@@ -190,7 +198,6 @@ You can also set a default theme in your `settings.json`:
 
 ```json
 {
-<<<<<<< HEAD
   "theme": "Asr+"
 }
 
@@ -218,41 +225,42 @@ You can also set a default theme in your `settings.json`:
 <img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/ae6997fd-78d3-474f-9e18-c19a8a48e71b" />
 =======
   "theme": "fajr+"
+=======
+  "theme": "Asr+"
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 }
-```
-
----
 
 ## 📸 Screenshots
 
-*(Replace the placeholders with actual screenshots of each flavor.)*
+| Asr+ |
+<img width="1920" height="1200" alt="Asr" src="https://github.com/user-attachments/assets/1ae2bc16-4ecf-409e-a194-065d9a87d007" />
 
-| Asr | Asr+ |
-|:---:|:---:|
-| ![Asr](https://via.placeholder.com/300x200?text=Asr) | ![Asr+](https://via.placeholder.com/300x200?text=Asr+) |
+| Maghrib+ |
+<img width="1920" height="1200" alt="Maghrib" src="https://github.com/user-attachments/assets/11573680-f26d-4ac3-83af-419613691972" />
 
-| Maghrib | Maghrib+ |
-|:---:|:---:|
-| ![Maghrib](https://via.placeholder.com/300x200?text=Maghrib) | ![Maghrib+](https://via.placeholder.com/300x200?text=Maghrib+) |
+| Layl+ |
+<img width="1920" height="1200" alt="Layl" src="https://github.com/user-attachments/assets/7b0aeb2a-1b25-45c6-8104-64410b9d94ca" />
 
-| Layl | Layl+ |
-|:---:|:---:|
-| ![Layl](https://via.placeholder.com/300x200?text=Layl) | ![Layl+](https://via.placeholder.com/300x200?text=Layl+) |
+| Fajr+ |
+<img width="1920" height="1200" alt="Fajr" src="https://github.com/user-attachments/assets/ef523ce4-3c7e-46d2-aff7-e3f873b7e126" />
 
-| Fajr | Fajr+ |
-|:---:|:---:|
-| ![Fajr](https://via.placeholder.com/300x200?text=Fajr) | ![Fajr+](https://via.placeholder.com/300x200?text=Fajr+) |
+| Dhuhr+ |
+<img width="1920" height="1200" alt="Dhuhr" src="https://github.com/user-attachments/assets/7fdbabf8-d121-4022-a070-c04daaef57a4" />
 
-| Dhuhr+ | Ghasaq+ |
-|:---:|:---:|
-| ![Dhuhr+](https://via.placeholder.com/300x200?text=Dhuhr+) | ![Ghasaq+](https://via.placeholder.com/300x200?text=Ghasaq+) |
+| Ghasaq+ |
+<img width="1920" height="1200" alt="Ghasaq" src="https://github.com/user-attachments/assets/dbb6fa3b-3a49-4494-9234-2328cd1a9720" />
 
+<<<<<<< HEAD
 | Subh | Subh+ |
 |:---:|:---:|
 | ![Subh](https://via.placeholder.com/300x200?text=Subh) | ![Subh+](https://via.placeholder.com/300x200?text=Subh+) |
 
 ---
 >>>>>>> 7262f79 (Rename display name to Sky's Sea)
+=======
+| Subh+ |
+<img width="1920" height="1200" alt="Subh" src="https://github.com/user-attachments/assets/ae6997fd-78d3-474f-9e18-c19a8a48e71b" />
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 
 ## 🤝 Contributing
 
@@ -276,6 +284,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💬 Contact
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Author:** Saif Basheer Mohammed Al-Khoja  
 - **GitHub:** https://github.com/saifbasheeralkhoja
 =======
@@ -285,6 +294,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **Twitter/X:** @yourtwitter (optional)  
 - **Email:** your.email@example.com (optional)
 >>>>>>> 7262f79 (Rename display name to Sky's Sea)
+=======
+- **Author:** Saif Basheer Mohammed Al-Khoja  
+- **GitHub:** https://github.com/saifbasheeralkhoja
+>>>>>>> 5dca173 (Update theme name to Sky's Sea)
 
 If you enjoy Sky’s Sea, please ⭐ the repository and share it with fellow Zed enthusiasts! Happy coding under the sky. 🌤
 

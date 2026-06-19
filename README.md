@@ -49,8 +49,8 @@ keep a border‑less look for a truly seamless feel.
 | **Sky‑Inspired Palette**  | Colors are taken directly from real sky hues.                                                                               |
 | **Minimalistic Design**   | Low contrast UI chrome lets the code itself become the visual focus.                                                        |
 | **Eye‑Friendly**          | Soft contrast ratios reduce strain during prolonged use.                                                                    |
-| **Border Variants (`+`)   | Flavors suffixed with `+` add thin, distinct borders around pans, tabs, and the status bar for those who prefer extra       |
-|                           |  visual separation.                                                                                                         |                                                                                                                            
+| **Border Variants (`+`)   | Flavors suffixed with `+` add thin, distinct borders around pans, tabs, and the status bar for those who prefer extra visual separation.      |
+|                           |                                                                                                           |                                                                                                                            
 | **Zed‑Native**            | Built using Zed’s theme JSON format – no extra plugins required.                                                            |
 | **Easy Switching**        | Change flavors instantly via Zed’s command palette or settings file.                                                        |
 | **Open Source**           | MIT‑licensed – feel free to fork, tweak, or share.                                                                          |

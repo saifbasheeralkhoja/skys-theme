@@ -37,10 +37,9 @@ keep a border‑less look for a truly seamless feel.
 - [📜 License](#-license)
 - [💬 Contact](#-contact)
 
----
+
 
 ## ✨ Features
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Feature                   | Description                                                                                                                 |
@@ -58,7 +57,6 @@ keep a border‑less look for a truly seamless feel.
 
 ## 🎨 Theme Flavors that written in Arabic words via English letters
 
---------------------------------------------------------------------------
 | Flavor       | Meaning (time of day)            | Borders |Background  |
 |--------------|----------------------------------|---------|------------|
 | 01. Asr      | Afternoon: High Minimlistic look |    ❌    | #212e4b  |
@@ -75,7 +73,6 @@ keep a border‑less look for a truly seamless feel.
 | 12. Subh+    | Morning: With clear borders      |    ✅    | #354b78  |
 --------------------------------------------------------------------------
 
----
 
 ## 🔧 Installation
 
@@ -108,7 +105,6 @@ keep a border‑less look for a truly seamless feel.
 
 3. Restart Zed (or reload the window) and choose the theme via **Settings → Themes**.
 
----
 
 ## 🖥 Usage
 
@@ -171,16 +167,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - **Author:** Saif Basheer Mohammed Al-Khoja  
 - **GitHub:** https://github.com/saifbasheeralkhoja
 
-- **Author:** *[Your Name]*  
-- **GitHub:** https://github.com/your-username  
-- **Twitter/X:** @yourtwitter (optional)  
-- **Email:** your.email@example.com (optional)
-
-- **Author:** Saif Basheer Mohammed Al-Khoja  
-- **GitHub:** https://github.com/saifbasheeralkhoja
-
 If you enjoy Sky’s Sea, please ⭐ the repository and share it with fellow Zed enthusiasts! Happy coding under the sky. 🌤
 
---- 
 
 *Generated with ❤ for the Zed community.*
